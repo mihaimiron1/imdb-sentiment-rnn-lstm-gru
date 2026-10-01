@@ -1,0 +1,14 @@
+# Data (download instructions in data/README.md)
+data/*
+!data/README.md
+
+# Models
+models/
+*.keras
+*.h5
+
+# Environments / caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
